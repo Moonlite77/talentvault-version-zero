@@ -8,17 +8,7 @@ import { NavBar } from "@/components/nav-bar";
 import { NavigationProgress } from "@/components/navigation-progress"
 import { Suspense } from "react";
 
-//var firebase = require('firebase');
 
-const firebaseConfig = {
-  apiKey: "AIzaSyBWDytFvpHPBIX8HBkdV_OY76hekfhvpdc",
-  authDomain: "talent-vault-e1c5a.firebaseapp.com",
-  projectId: "talent-vault-e1c5a",
-  storageBucket: "talent-vault-e1c5a.firebasestorage.app",
-  messagingSenderId: "85641447974",
-  appId: "1:85641447974:web:8027b0eec64d6e119f74e7",
-  measurementId: "G-DGVTV567JZ"
-};
 
 //const app = initializeApp(firebaseConfig);
 //const analytics = getAnalytics(app);
